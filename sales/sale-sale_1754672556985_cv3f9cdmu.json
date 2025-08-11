@@ -1,0 +1,18 @@
+{
+  "productId": 1754671627715,
+  "productName": "Jews",
+  "productOwner": "Unknown",
+  "quantity": 2,
+  "unitPrice": 20000,
+  "paymentMethod": "bbpay",
+  "transactionId": "TXN72556853",
+  "customerEmail": "",
+  "customerName": "",
+  "id": "sale_1754672556985_cv3f9cdmu",
+  "purchaseDate": "2025-08-08T17:02:36.985Z",
+  "paymentStatus": "success",
+  "status": "completed",
+  "currency": "INR",
+  "price": 0,
+  "total": 0
+}

@@ -1,0 +1,16 @@
+{
+  "productId": 1753807851740,
+  "productName": "Arise",
+  "productOwner": "Unknown",
+  "quantity": 1,
+  "unitPrice": 123,
+  "paymentMethod": "PAYTM UPI",
+  "transactionId": "TXN70788391",
+  "customerEmail": "",
+  "customerName": "",
+  "id": "sale_1754670788462_pnyco53gs",
+  "date": "2025-08-08T16:33:08.462Z",
+  "purchaseDate": "2025-08-08T16:33:08.462Z",
+  "status": "completed",
+  "paymentStatus": "success"
+}

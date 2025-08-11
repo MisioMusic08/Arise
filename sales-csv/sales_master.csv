@@ -1,0 +1,6 @@
+Sale ID,Product ID,Product Number,Product Name,Product Owner,Quantity,Price,Total Amount,Customer Name,Customer Email,Customer Phone,Payment Method,UPI ID,Transaction ID,Purchase Date,Status,Payment Status,Currency,Buyer Name,Buyer Email,Buyer Phone,Product Category,Payment Gateway
+sale_1754670139789_hvl501amz,1754669412627,,"Autobo","Unknown",1,0,0,"","","",PHONEPE UPI,"",TXN70138918,2025-08-08T16:22:19.789Z,completed,success,INR,"","","","",Unknown
+sale_1754670732615_585cgq5b4,1754669412627,,"Autobo","Unknown",1,0,0,"","","",GPAY UPI,"",TXN70731669,2025-08-08T16:32:12.615Z,completed,success,INR,"","","","",Unknown
+sale_1754670788462_pnyco53gs,1753807851740,,"Arise","Unknown",1,0,0,"","","",PAYTM UPI,"",TXN70788391,2025-08-08T16:33:08.462Z,completed,success,INR,"","","","",Unknown
+sale_1754671472577_j13a7jmq2,1754669412627,,"Autobo","Unknown",1,0,0,"","","",BPAY UPI,"",TXN71470704,2025-08-08T16:44:32.578Z,completed,success,INR,"","","","",Unknown
+sale_1754671651435_kqbjn1gez,1754671627715,,"Jews","Unknown",1,0,0,"","","",BPAY UPI,"",TXN71650442,2025-08-08T16:47:31.435Z,completed,success,INR,"","","","",Unknown
